@@ -1,0 +1,129 @@
+F:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+F:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+F:\emlak\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+F:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+G:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+G:\emlak\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+G:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+G:\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+G:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+F:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+F:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+F:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+F:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+F:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+G:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+G:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+G:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+G:\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form10.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+G:\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form10.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form8.resources
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csprojResolveAssemblyReference.cache
+F:\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form9.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form10.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form8.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form9.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+C:\Users\alper\Desktop\Programlar\emlak\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csprojResolveAssemblyReference.cache
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form10.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form8.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form9.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.Cache
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csprojAssemblyReference.cache
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.CoreCompileInputs.cache
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form11.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form12.resources
+D:\Games\11.sınıf nesne tabanlı programlama\emlak - Kopya\emlakveri\emlakveri\bin\Debug\giris.accdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\bin\Debug\EmlakVeriTabani.accdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\bin\Debug\giris.accdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\bin\Debug\emlakveri.exe.config
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\bin\Debug\emlakveri.exe
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\bin\Debug\emlakveri.pdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form1.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form10.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form11.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form12.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form2.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form3.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form4.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form5.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form6.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form7.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form8.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Form9.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.Properties.Resources.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.GenerateResource.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.exe
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\emlak veritabanı\emlakveri\emlakveri\obj\x86\Debug\emlakveri.pdb
